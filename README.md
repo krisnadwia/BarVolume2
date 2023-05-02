@@ -1,7 +1,7 @@
 # BarVolume2
 Penghitung Volume Balok
 
-Download this app: https://cloud.degoo.com/share/1GgH56lxsh-CXyMUmD85Hg
+Download this app: https://drive.google.com/drive/folders/1lDstMF6hHE5wcU0Jct9TPMrAvK28sKrE?usp=share_link
 
 ## Screenshots
 <img src="assets/BV2(1).png"
